@@ -1,0 +1,14 @@
+{
+  "name": "http-status-server",
+  "version": "1.0.0",
+  "description": "Programa para simular respuestas http y poder validar codigos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caracati",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
